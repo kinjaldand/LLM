@@ -1,0 +1,8 @@
+Misc
+	Pandas: Dataset fits in memory
+	SQL: Dataset in warehouse
+	
+Training LLM: 
+	 - Instructions for LLMs have been shown to improve model performance and generalization to unseen tasks (Google, 2022).https://arxiv.org/pdf/2210.11416.pdf
+		Wihtout the instruction, it is only question and answer. Model might not understand what to do.
+		With the instructions, the model gets a guideline as to what task to perform.
