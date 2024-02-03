@@ -1,0 +1,5 @@
+conda create -n vector_db_env python=3.10.13
+
+conda activate vector_db_env
+
+python -m ipykernel install --user --name=vector_db_env --display-name "vector_db_env"

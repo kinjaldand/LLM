@@ -1,0 +1,10 @@
+python -m venv llmenv
+
+llmenv\Scripts\Activate
+
+pip install pylzma numpy ipykernel jupyter 
+pip install torch --index-url https://download.pytorch.org/whl/cu118
+
+python -m ipykernel install --user --name=llmenv --display-name "llmenv"
+
+cd "C:\Users\HV879VM\OneDrive - EY\Office Work\Apollo\LLM\LLM\Codes\llm_from_scratch"
