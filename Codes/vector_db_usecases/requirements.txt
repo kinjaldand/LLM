@@ -27,3 +27,4 @@ tqdm==4.66.1
 
 datasets==2.15.0
 deepface==0.0.79
+openai==1.9.0
